@@ -6,7 +6,7 @@ Nghiên cứu sử dụng camera đo chiều sâu Intel RealSense D435, tích h�
 
 <p align="center">
 <div style="display: flex; gap: 10px;">
-  <img src="images\camera.jpg" width="100%">
+  <img src="images/camera.jpg" width="100%">
 </div>
 
 *Hình 1. Camera Intel RealSense D435 sử dụng trong hệ thống thu thập dữ liệu.*
@@ -19,7 +19,7 @@ Thí nghiệm được thực hiện trong phòng ăn có diện tích khoảng 
 
 <p align="center">
 <div style="display: flex; gap: 10px;">
-  <img src="images\so_do.jpg" width="100%">
+  <img src="images/so_do.jpg" width="100%">
 </div>
 
 *Hình 2. Sơ đồ bố trí không gian thực nghiệm, vị trí chướng ngại vật và tuyến đường di chuyển theo các marker.*
@@ -30,7 +30,7 @@ Camera được cố định trước ngực người tham gia, hướng về ph
 
 <p align="center">
 <div style="display: flex; gap: 10px;">
-  <img src="images\bo_tri.jpg" width="100%">
+  <img src="images/bo_tri.jpg" width="100%">
 </div>
 
 *Hình 3. Bố trí thiết bị ghi hình trên người tham gia: (a) tư thế đeo và hướng camera; (b) vị trí laptop phía sau lưng; (c) vị trí bắt đầu thu thập dữ liệu.*
