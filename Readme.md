@@ -225,7 +225,7 @@ $$
 Giá trị ở phân vị 50% sau khi sắp xếp chuỗi sai số tăng dần. Có tính kháng nhiễu cực cao (robust to outliers), phản ánh độ chính xác của đại đa số khung hình mà không bị thao túng bởi một vài phân đoạn lỗi cục bộ.
 
 $$
-Median = \operatorname{median}(\{e_1, e_2, \ldots, e_N\})
+\mathrm{Median} = \mathrm{median}( \{e_1, e_2, \ldots, e_N\} )
 $$
 
 ### 1.3.4. Độ lệch chuẩn Std
