@@ -182,10 +182,17 @@ Trong đó, $P_i$ là tọa độ vị trí của quỹ đạo ước lượng v
 Sau khi quỹ đạo ước lượng đã được căn chỉnh đồng dạng về cùng hệ tọa độ với Ground Truth, sai số độ lệch khoảng cách \(e_i\) (tính bằng mét) tại khung hình thứ \(i\) được định nghĩa là khoảng cách Euclid giữa tọa độ thực tế và tọa độ ước lượng:
 
 $$
+e_i = \left\| \mathrm{trans}(Q_i) - \mathrm{trans}(P'_i) \right\|_2
+$$
+
+$$
 e_i = \sqrt{(x_i^{gt} - x_i^{est\_aligned})^2 + (y_i^{gt} - y_i^{est\_aligned})^2 + (z_i^{gt} - z_i^{est\_aligned})^2}
 $$
 
-Trong đó: \(Q_i = [x_i^{gt}, y_i^{gt}, z_i^{gt}]^T\) là tọa độ gốc của Ground Truth. \(P'_i = [x_i^{est\_aligned}, y_i^{est\_aligned}, z_i^{est\_aligned}]^T\) là tọa độ ước lượng sau khi đã nhân với ma trận biến đổi Sim(3).
+Trong đó:
+
+- \(Q_i = [x_i^{gt}, y_i^{gt}, z_i^{gt}]^T\) là tọa độ gốc của Ground Truth.
+- \(P'_i = [x_i^{est\_aligned}, y_i^{est\_aligned}, z_i^{est\_aligned}]^T\) là tọa độ ước lượng sau khi đã nhân với ma trận biến đổi Sim(3).
 
 ## 1.3. Các độ đo đánh giá sai số quỹ đạo (ATE)
 
