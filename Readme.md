@@ -189,8 +189,19 @@ $$
 e_i = \sqrt{(x_i^{gt} - x_i^{est\_aligned})^2 + (y_i^{gt} - y_i^{est\_aligned})^2 + (z_i^{gt} - z_i^{est\_aligned})^2}
 $$
 
-Trong đó: trans(Q_i) = [x_i^gt, y_i^gt, z_i^gt]^T là tọa độ gốc của Ground Truth. trans(P'_i) = [x_i^est_aligned, y_i^est_aligned, z_i^est_aligned]^T là tọa độ ước lượng sau khi đã nhân với ma trận biến đổi Sim(3).
+Trong đó:
 
+$$
+Q_i = [x_i^{gt}, y_i^{gt}, z_i^{gt}]^T
+$$
+
+là tọa độ gốc của Ground Truth.
+
+$$
+P'_i = [x_i^{est\_aligned}, y_i^{est\_aligned}, z_i^{est\_aligned}]^T
+$$
+
+là tọa độ ước lượng sau khi đã nhân với ma trận biến đổi Sim(3).
 ## 1.3. Các độ đo đánh giá sai số quỹ đạo (ATE)
 
 ### 1.3.1. Độ đo RMSE (Root Mean Square Error)
