@@ -308,34 +308,34 @@ Nhìn chung, Monodepth2 đóng vai trò phương pháp cơ sở, MLF-VO cho th�
 ## 5.1. Lượt đi
 
 
-![Đồ thị quỹ đạo lần 1 lượt đi](images/ford1_luot_di.png)
+![Đồ thị quỹ đạo lần 1 lượt đi](Images/ford1_luot_di.png)
 
 
-![Đồ thị quỹ đạo lần 2 lượt đi](images/ford2_luot_di.png)
+![Đồ thị quỹ đạo lần 2 lượt đi](Images/ford2_luot_di.png)
 
 
-![Đồ thị quỹ đạo lần 3 lượt đi](images/ford3_luot_di.png)
+![Đồ thị quỹ đạo lần 3 lượt đi](Images/ford3_luot_di.png)
 
 
-![Đồ thị quỹ đạo lần 4 lượt đi](images/ford4_luot_di.png)
+![Đồ thị quỹ đạo lần 4 lượt đi](Images/ford4_luot_di.png)
 
 
-![Đồ thị quỹ đạo lần 5 lượt đi](images/ford5_luot_di.png)
+![Đồ thị quỹ đạo lần 5 lượt đi](Images/ford5_luot_di.png)
 
 
 ## 5.2. Lượt về
 
 
-![Đồ thị quỹ đạo lần 1 lượt về](images/ford1_luot_ve.png)
+![Đồ thị quỹ đạo lần 1 lượt về](Images/ford1_luot_ve.png)
 
 
-![Đồ thị quỹ đạo lần 2 lượt về](images/ford2_luot_ve.png)
+![Đồ thị quỹ đạo lần 2 lượt về](Images/ford2_luot_ve.png)
 
 
-![Đồ thị quỹ đạo lần 3 lượt về](images/ford3_luot_ve.png)
+![Đồ thị quỹ đạo lần 3 lượt về](Images/ford3_luot_ve.png)
 
 
-![Đồ thị quỹ đạo lần 4 lượt về](images/ford4_luot_ve.png)
+![Đồ thị quỹ đạo lần 4 lượt về](Images/ford4_luot_ve.png)
 
 
-![Đồ thị quỹ đạo lần 5 lượt về](images/ford5_luot_ve.png)
+![Đồ thị quỹ đạo lần 5 lượt về](Images/ford5_luot_ve.png)
