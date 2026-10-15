@@ -251,7 +251,7 @@ $$
 
 # 3. Đồ thị hội tụ hàm Loss
 
-ahsdjashifh
+![Đồ thị hội tụ](Images/do_thi_hoi_tu.jpg)
 
 Từ đồ thị trên, ta thấy tiến trình học trải qua 3 giai đoạn rõ rệt:
 
