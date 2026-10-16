@@ -331,9 +331,7 @@ Nhìn chung, Monodepth2 đóng vai trò phương pháp cơ sở, MLF-VO cho th�
 
 ## 5.2. Lượt về
 
-<video width="640" controls autoplay muted loop playsinline>
-  <source src="https://raw.githubusercontent.com/HuaTThanhIT2327Tqu/Introduction/main/Videos/video2_luot_ve_lan4_ve2.mp4" type="video/mp4">
-</video>
+[▶ Xem video lượt về](https://raw.githubusercontent.com/HuaTThanhIT2327Tqu/Introduction/main/Videos/video2_luot_ve_lan4_ve2.mp4)
 
 ![Đồ thị quỹ đạo lần 1 lượt về](Images/ford1_luot_ve.png)
 
