@@ -618,7 +618,7 @@ To visualize the differences between the networks, all trajectories are plotted 
 
 ## 6.1. Outward Sequences
 
-[▶ Watch the Outward Sequence Video](https://drive.google.com/file/d/1KjEL3B-ZuKWq3SkbPUfHEyY-iKu77nSV/view?usp=drive_link)
+[▶ Watch the Outward Sequence Video](https://drive.google.com/file/d/1rITNa-C78JfzToeqY97CRX7EZPE9G-2D/view?usp=drive_link)
 
 ![Trajectory Plot for Run 1 - Outward](Images/ford1_luot_di.png)
 
@@ -632,7 +632,7 @@ To visualize the differences between the networks, all trajectories are plotted 
 
 ## 6.2. Return Sequences
 
-[▶ Watch the Return Sequence Video](https://drive.google.com/file/d/1kW1N34U80775hqHi98vsKY0sEaqMD0fd/view?usp=drive_link)
+[▶ Watch the Return Sequence Video](https://drive.google.com/file/d/1tUEZQebxAWADKQ68E4ThjfphAv2DO9gs/view?usp=drive_link)
 
 ![Trajectory Plot for Run 1 - Return](Images/ford1_luot_ve.png)
 
@@ -650,3 +650,7 @@ To visualize the differences between the networks, all trajectories are plotted 
 2. Images of the Four Marked Points: [Download here](https://drive.google.com/drive/folders/1lLeeIbW2P5X5z_o7ziPXw7AyPJj4-P_H?usp=drive_link)
 3. Physical Coordinate Table of the House: [Download here](https://drive.google.com/drive/folders/1wqTpLEqYlRArhj6MTwE1XOTshG7hiD9B?usp=drive_link)
 4. Transformation Matrix: [Download here](https://drive.google.com/drive/folders/1vf-cKKE6Nf7POh6Ph-6uqwsfhsywuKh9?usp=drive_link)
+5. Evaluation Images: [Download here](https://drive.google.com/drive/folders/1glaRwAhO3XSOK2pBhen3JggugfA6B5Eq?usp=drive_link)
+6. Result Video: [Download here](https://drive.google.com/drive/folders/1OWDWw-bnItgA72fqlascTE5ulEpflIQy?usp=drive_link)
+7. MLF + Loss Code: [Download here](https://drive.google.com/drive/folders/17Axw7tkUqymw9UH4MhJpSzldHa15Zsvw?usp=drive_link)
+8. Monodepth2 Code: [Download here](https://drive.google.com/drive/folders/1sMTtjMgmuusc4wfDhAXeAJm9cdr6WJdz?usp=drive_link)
